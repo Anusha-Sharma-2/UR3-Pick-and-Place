@@ -1,7 +1,7 @@
 # UR3 Robotic Arm Pick-and-Place System
 [![Watch Demo](https://img.youtube.com/vi/4Bmv51sXYaY/0.jpg)](https://youtu.be/4Bmv51sXYaY)
-A real-time robotic system that detects objects using computer vision and executes autonomous pick-and-place on a UR3 arm.
 
+A real-time robotic system that detects objects using computer vision and executes autonomous pick-and-place on a UR3 arm.
 Combines perception, coordinate transformations, and inverse kinematics to convert camera observations into precise robot actions.
 
 ## Overview
